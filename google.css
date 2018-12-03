@@ -1,0 +1,50 @@
+#header {
+  width: 100%;
+  height: 200px;
+  text-align: right;
+  display: inline-block;
+}
+
+a {
+  font-family: Futura;
+}
+
+#search img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 95px;
+  width: 270px;
+}
+
+#search input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 30px;
+}
+
+#buttons {
+  text-align: center;
+}
+
+#button1 {
+  background-color: #e7e7e7;
+  color: black;
+  padding: 12px 40px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Futura;
+}
+
+#button2 {
+  background-color: #e7e7e7;
+  color: black;
+  padding: 12px 28px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Futura;
+}
